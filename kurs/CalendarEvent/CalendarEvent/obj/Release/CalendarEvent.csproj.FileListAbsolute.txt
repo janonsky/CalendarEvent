@@ -1,0 +1,6 @@
+C:\Users\qanon\source\repos\kurs\CalendarEvent\CalendarEvent\bin\Release\CalendarEvent.dll
+C:\Users\qanon\source\repos\kurs\CalendarEvent\CalendarEvent\bin\Release\CalendarEvent.pdb
+C:\Users\qanon\source\repos\kurs\CalendarEvent\CalendarEvent\bin\Release\Newtonsoft.Json.dll
+C:\Users\qanon\source\repos\kurs\CalendarEvent\CalendarEvent\obj\Release\CalendarEvent.csproj.CoreCompileInputs.cache
+C:\Users\qanon\source\repos\kurs\CalendarEvent\CalendarEvent\obj\Release\CalendarEvent.dll
+C:\Users\qanon\source\repos\kurs\CalendarEvent\CalendarEvent\obj\Release\CalendarEvent.pdb
